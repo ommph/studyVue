@@ -1,0 +1,40 @@
+{
+  "status":1,
+  "result":{
+    "totalMoney":109,
+    "tableData":[
+      {
+        "date":"2018-2-8",
+        "name":"zwt",
+        "address":"河北省涿州市"        
+      },
+      {
+        "date":"2018-2-9",
+        "name":"myl",
+        "address":"河北省涿州市"        
+      },
+      {
+        "date":"2018-2-10",
+        "name":"mxy",
+        "address":"河北省涿州市"        
+      },
+      {
+        "date":"2018-2-11",
+        "name":"mxm",
+        "address":"河北省涿州市"        
+      },
+      {
+        "date":"2018-2-12",
+        "name":"mother",
+        "address":"河北省涿州市"        
+      },
+      {
+        "date":"2018-2-13",
+        "name":"father",
+        "address":"河北省涿州市"        
+      }
+     
+    ]
+  },
+  "message":""
+}
